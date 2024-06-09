@@ -1,0 +1,93 @@
+{
+  "hideout": {
+    "0": {
+      "currentLevel": 2,
+      "raidsSinceStarted": 57,
+      "timeAvailable": 1716490535884
+    },
+    "2": {
+      "currentLevel": 2,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1717887522290
+    },
+    "7": {
+      "currentLevel": 2,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1717887522290
+    },
+    "15": {
+      "currentLevel": 2,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1717887522290
+    },
+    "21": {
+      "currentLevel": 1,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1717887522290
+    },
+    "22": {
+      "currentLevel": 4,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1717887522290
+    }
+  },
+  "quests": {
+    "596a204686f774576d4c95de": {
+      "raidsSinceStarted": 2
+    },
+    "5bc4776586f774512d07cf05": {
+      "raidsSinceStarted": 0
+    },
+    "5d25aed386f77442734d25d2": {
+      "raidsSinceStarted": 0
+    },
+    "5bc479e586f7747f376c7da3": {
+      "raidsSinceStarted": 0
+    },
+    "5ac2428686f77412450b42bf": {
+      "raidsSinceStarted": 0
+    },
+    "5ac3467986f7741d6224abc2": {
+      "raidsSinceStarted": 0
+    },
+    "5968eb3186f7741dde183a4d": {
+      "raidsSinceStarted": 0
+    },
+    "59674cd986f7744ab26e32f2": {
+      "raidsSinceStarted": 0
+    },
+    "59674eb386f774539f14813a": {
+      "raidsSinceStarted": 0
+    },
+    "665f745b98896bfe26000001": {
+      "raidsSinceStarted": 0
+    },
+    "5ae448a386f7744d3730fff0": {
+      "raidsSinceStarted": 0
+    },
+    "5ac3462b86f7741d6118b983": {
+      "raidsSinceStarted": 0
+    },
+    "5ac3475486f7741d6224abd3": {
+      "raidsSinceStarted": 0
+    },
+    "626bd75e47ea7f506e5493c5": {
+      "raidsSinceStarted": 0
+    },
+    "666403f864d1519a5f000001": {
+      "raidsSinceStarted": 0
+    },
+    "666403f864d1519a5f000008": {
+      "raidsSinceStarted": 0
+    },
+    "596b43fb86f77457ca186186": {
+      "raidsSinceStarted": 2
+    },
+    "596b455186f77457cb50eccb": {
+      "raidsSinceStarted": 2
+    },
+    "5a27c99a86f7747d2c6bdd8e": {
+      "raidsSinceStarted": 2
+    }
+  }
+}
