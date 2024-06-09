@@ -1,5 +1,20 @@
-[2024-05-24 23:09:39] ==== Launcher Started ====
-[2024-05-24 23:09:39][Warning] Launcher config not found
-[2024-05-24 23:09:39][Info] Creating launcher config: D:\SPT\user\launcher\config.json
-[2024-05-24 23:09:40][Info] Using launcher config at: D:\SPT\user\launcher\config.json
-[2024-05-24 23:09:40][Info] Using launcher config at: D:\SPT\user\launcher\config.json
+[2024-06-09 00:01:52] ==== Launcher Started ====
+[2024-06-09 00:01:52][Info] Using launcher config at: C:\spt\user\launcher\config.json
+[2024-06-09 00:01:53][Info] Connected to server: http://188.94.255.4:6969 - Aki Version: 3.8.3
+[2024-06-09 00:01:59][Info] >>> Launching Game
+[2024-06-09 00:01:59][Info] >>> Account: muhzn
+[2024-06-09 00:01:59][Info] >>> Server : http://188.94.255.4:6969
+[2024-06-09 00:01:59][Info] [LaunchGame] Installed in Live :: NO
+[2024-06-09 00:01:59][Info] [LaunchGame] Setup Game Files ...
+[2024-06-09 00:01:59][Info] Recursive Removal: C:\spt\Logs
+[2024-06-09 00:01:59][Info] Recursive Removal: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197 application.log
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197 errors.log
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197 notifications.log
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197 spatial-audio.log
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197 traces.log
+[2024-06-09 00:01:59][Debug]   -> del file: C:\spt\Logs\log_2024.06.08_19-52-02_0.14.1.2.29197\2024.06.08_19-52-02_0.14.1.2.29197_backend.log
+[2024-06-09 00:01:59][Info] [LaunchGame] Game Validation   :: OK
+[2024-06-09 00:01:59][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-06-09 00:01:59][Info] [LaunchGame] Applying Patch    :: OK
+[2024-06-09 00:01:59][Info] [LaunchGame] Game process started

@@ -1,0 +1,18 @@
+[2024-05-23T14:43:07.041Z] debug: 	Importing configs...
+[2024-05-23T14:43:07.146Z] info: 	Commit hash: 01783e295be916352ccb1078cf8351b273610c8e
+[2024-05-23T14:43:07.146Z] info: 	Build date: 1715594841109
+[2024-05-23T14:43:07.246Z] info: 	ModLoader: Benutzer-/Mod-Ordner fehlt, ordner wird erstellt...
+[2024-05-23T14:43:07.283Z] info: 	Server: Startprozesse werden ausgeführt...
+[2024-05-23T14:43:07.283Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2024-05-23T14:43:07.284Z] debug: 	CPU: AMD Ryzen 7 5800X3D 8-Core Processor            cores: 16
+[2024-05-23T14:43:07.284Z] debug: 	RAM: 63.92GB
+[2024-05-23T14:43:07.284Z] debug: 	PATH: Qzpcc3B0XEFraS5TZXJ2ZXIuZXhl
+[2024-05-23T14:43:07.284Z] debug: 	PATH: Qzpcc3B0XEFraS5TZXJ2ZXIuZXhl
+[2024-05-23T14:43:07.284Z] debug: 	Server: 3.8.3
+[2024-05-23T14:43:07.284Z] debug: 	Date: 1715594841109
+[2024-05-23T14:43:07.284Z] debug: 	Commit: 01783e295be916352ccb1078cf8351b273610c8e
+[2024-05-23T14:43:07.292Z] info: 	Datenbank wird importiert...
+[2024-05-23T14:43:30.538Z] info: 	Datenbankimport abgeschlossen
+[2024-05-23T14:43:34.625Z] succ: 	Webserver bei http://127.0.0.1:6969 gestartet
+[2024-05-23T14:43:34.625Z] succ: 	Websocket auf ws://127.0.0.1:6969 gestartet
+[2024-05-23T14:43:34.625Z] succ: 	Der Server läuft. Schließen Sie ihn nicht, während Sie SPT spielen, Viel Spaß beim Spielen!!
