@@ -3,11 +3,14 @@
   "DefaultLocale": "German",
   "LauncherStartGameAction": 0,
   "UseAutoLogin": true,
-  "GamePath": "D:\\SPT",
+  "GamePath": "C:\\spt",
   "ExcludeFromCleanup": [],
   "Server": {
-    "AutoLoginCreds": null,
+    "AutoLoginCreds": {
+      "Username": "muhzn",
+      "Password": ""
+    },
     "Name": "SPT-AKI",
-    "Url": "http://127.0.0.1:6969"
+    "Url": "http://188.94.255.4:6969"
   }
 }
